@@ -1,0 +1,7 @@
+{
+    "mqtt_host": "test.mosquitto.org",
+    "mqtt_port": 1883,
+    "mqtt_use_tls": 0,
+    "mqtt_clientid_prefix": "paho-",
+    "mqtt_root_topic": "octopus"
+}
